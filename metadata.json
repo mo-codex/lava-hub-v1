@@ -1,0 +1,6 @@
+{
+  "name": "Lava Hub",
+  "description": "Empowering youth in Somalia, Somaliland, and the diaspora through free practical online workshops and collaborative community learning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
